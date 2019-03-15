@@ -21,3 +21,5 @@ apk-sizes-*.txt
 *.binlog
 src/Xamarin.Android.Build.Tasks/Xamarin.Android.Common.props
 *~
+*.mpack
+
